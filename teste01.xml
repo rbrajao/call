@@ -1,4 +1,4 @@
 <Response>
 <Say voice="alice">Read a document below for tests</Say>
-<Play>https://github.com/rbrajao/call/blob/main/vozteste.mp3</Play>
+<Play>https://rbrajao.github.io/call/vozteste.mp3</Play>
 </Response>
